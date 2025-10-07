@@ -4,6 +4,21 @@
 import torch
 import triton
 import triton.language as tl
+> > Why not PortableGit-2.50.1-64-bit.7z.exe ?
+>   
+> ##> ``` Portal DropBox.'ßNETWORK 
+> - - [ ] #~~[1.zip](https://github.com/user-attachments/files/22636825/1.zip)~~
+> ```
+> [B1YPdcN1a3vPLc3AMAW2m.txt] (https://**github****.com/user-attachments/**[]()**files/22624352/** [Documents.zip](https://github.com/user-**** **attachments/files/22624364/ ** CDL **  ** **** ************DROPBOX.**Documents.zip)****B1YPdcN1a3vPLc3AMAW2m.txt) @DexterWernJr @AOL.COM](****)![image](https://github.com/user-attachments/assets/9eba0ddf-568b-4d71-9d6c-912d8857f2df) *![image](https://github.com/user-attachments/assets/cb379263-5174-447f-91fd-01a907891657)*******************************
+> ![image](https://github.com/user-attachments/assets/a770b2e1-e391-47f5-868b-87c48291b964)
+> ********************************
+> ![image](https://github.com/user-attachments/assets/950b783e-d4aa-4546-bdb0-3ad8971fce1d)
+> ********************************
+> [SSH_Client.csv](https://github.com/user-attachments/files/22624393/SSH_Client.csv)
+> [KEARNEY.zip](https://github.com/user-attachments/files/22624387/KEARNEY.zip)
+> [text.txt](https://github.com/user-attachments/files/22624391/text.txt)
+> ********************
+
 
 @triton.jit
 def selective_adam_kernel(
